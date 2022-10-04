@@ -2,6 +2,7 @@
 let spaghetti = 400;
 let guanciale = 250;
 let eggYolks = 6;
+eggYolks = 6 * 18; // 1 Yolk weights ~ 18g
 let percorinoRomano = 50;
 let blackPepper = 4;
 
